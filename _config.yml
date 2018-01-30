@@ -1,15 +1,15 @@
 # Site settings
-title: Yixia's Blog
+title:  Blog
 header-img: img/home-bg.jpg
-email: yixia.cai@gmail.com
-copyright_name: yixia
-description: "This is a Yixia's personal blog"
+email: 
+copyright_name: 
+description: "This is a 's personal blog"
 baseurl: ""
 url: "http://yixiacai.com"
-twitter_username: yixia
-github_username:  yixiacai
-facebook_username: yixiacai
-email_username:  yixia.cai@gmail.com
+twitter_username: 
+github_username:  
+facebook_username: 
+email_username:  
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
