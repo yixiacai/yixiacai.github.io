@@ -1,9 +1,9 @@
 # Site settings
-title:  Blog
+title:  
 header-img: img/home-bg.jpg
 email: 
 copyright_name: 
-description: "This is a 's personal blog"
+description: "blog"
 baseurl: ""
 url: "http://yixiacai.com"
 twitter_username: 
